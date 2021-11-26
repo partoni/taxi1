@@ -1,0 +1,6 @@
+.con{
+    grid-area: con;
+    background-color: rgb(79, 80, 79);
+    color: hsl(177, 95%, 48%);
+    font-size: 20px;
+}
